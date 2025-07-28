@@ -67,7 +67,7 @@ while True:
                 break
         
         if not found:
-            print("⚠️ Student ID not found.")
+            print(" Student ID not found.")
     elif choice == "4":
        did = input("enter delete Success:")
        found = False
